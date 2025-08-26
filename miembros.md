@@ -5,10 +5,7 @@
 * Falcon
 * Hank Pym
 * Hawkeye
-* Hulk
-* Iron Man
-* Luke Cage
-* QuickSilver
+* Hul
 * Scarlet Witch
 * Spider Woman
 * Thor
