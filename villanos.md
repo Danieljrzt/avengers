@@ -2,3 +2,4 @@
 fameboy
 futa
 futanari
+capitan
